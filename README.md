@@ -2,7 +2,7 @@
 
 ## Hi I'm Andrei, I am not that good at programming but i still want to learn and try. God Bless and Stay Safe! 
 
-*Friendly | Jolly | I Love to Ride Mountain Bikes | I Love to Sing and most importantly I Love God and Serve Him with all of my Heart ❤️* 
+#*Friendly | Jolly | I Love to Ride Mountain Bikes | I Love to Sing and most importantly I Love God and Serve Him with all of my Heart ❤️* 
 
  - 🔭 I’m currently working on my never ending Assignments, Activities, and Projects that I need to pass 
  - 🌱 I’m currently learning how not to quit and pursue my dreams hahaha 

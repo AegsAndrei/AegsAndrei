@@ -9,7 +9,7 @@
  - 🤔 I’m looking for help with my assignments, actvities, and Project (J4F) 
  - 📫 How to reach me: Gmail Account - serranoandreiemmanuel@gmail.com 
  - ⚡ Fun fact: 
-   ^ |"I'm Nobody! Who are you" - Emily Dickinson
-   ^ |"You're never a loser until you quit trying." - Mike Ditka
-   ^ |"Dream Big, Aim for the Sky, Make it happen" - CongTV ☝️
-   ^ |"Ikaw ang halimbawa ng tao na else {} kasi Pinupuntahan ka lang pag no choice na sila." - Hugot Programmer.                                                     
+   - |"I'm Nobody! Who are you" - Emily Dickinson
+   - |"You're never a loser until you quit trying." - Mike Ditka
+   - |"Dream Big, Aim for the Sky, Make it happen" - CongTV ☝️
+   - |"Ikaw ang halimbawa ng tao na else {} kasi Pinupuntahan ka lang pag no choice na sila." - Hugot Programmer.                                                     
